@@ -1,5 +1,5 @@
 # 🚀 Projects - Cybersecurity BC @ LHL 🚀
-This space contains some of the important projects that I completed during the Cybersecurity Bootcamp at LHL (Lighthouse labs) in 2024-2025.
+This space contains some of the important projects that I completed during my Cybersecurity Bootcamp at LHL (Lighthouse labs) in 2024-2025.
 
 **Note:** Some of the company names and characters listed in these projects are fictional (in *Italics*) and were used for educational purposes only.
 
@@ -22,7 +22,7 @@ This space contains some of the important projects that I completed during the C
 **Deliverable(s):** [Cat & Box Scenario; Playbook for Brute Force Attacks](https://github.com/prinson619/Projects---Cybersecurity-BC-LHL/blob/main/Project%204_%20Playbook%20for%20Cat%20%26%20Box%20Scenario.pdf)
 
 ---
-### P6: Project 6 - *Cat's Company* Vulnerabilities 📊
+### P6: *Cat's Company* Vulnerabilities 📊
 **Tools Used:**  
 [OpenVAS, Linux Server, Windows 11, NIST, MITRE CWE, OWASP]
 
